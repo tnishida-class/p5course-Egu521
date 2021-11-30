@@ -18,7 +18,7 @@ background(72, 188, 212);
 
 makeCloud(cloudx, cloudy);
 makeCloud(cloudx + 100, cloudy + 100);
-SS
+
 
 fill(a, b, c);
 stroke(0);
